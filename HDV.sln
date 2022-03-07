@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDV", "HDV\HDV.csproj", "{EDB372A5-1AAC-4677-9224-F7C044481498}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{58E081C3-06EF-4937-BF5E-E2BD35182B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB372A5-1AAC-4677-9224-F7C044481498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB372A5-1AAC-4677-9224-F7C044481498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB372A5-1AAC-4677-9224-F7C044481498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB372A5-1AAC-4677-9224-F7C044481498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D87F322-4A04-4015-BC84-555BE9850D5D}
+	EndGlobalSection
+EndGlobal
